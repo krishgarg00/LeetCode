@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/gargkrish01/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gargkrish01/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/gargkrish01/LeetCode/tree/master/0031-next-permutation) |
+| [0041-first-missing-positive](https://github.com/gargkrish01/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/gargkrish01/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/gargkrish01/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/gargkrish01/LeetCode/tree/master/0053-maximum-subarray) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gargkrish01/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/gargkrish01/LeetCode/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/gargkrish01/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/gargkrish01/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/gargkrish01/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/gargkrish01/LeetCode/tree/master/0169-majority-element) |
