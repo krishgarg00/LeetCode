@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/gargkrish01/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gargkrish01/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gargkrish01/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3028-ant-on-the-boundary](https://github.com/gargkrish01/LeetCode/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gargkrish01/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/gargkrish01/LeetCode/tree/master/3731-find-missing-elements) |
 ## Backtracking
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/gargkrish01/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/gargkrish01/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3028-ant-on-the-boundary](https://github.com/gargkrish01/LeetCode/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gargkrish01/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3894-traffic-signal-color](https://github.com/gargkrish01/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Hash Table
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/gargkrish01/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/gargkrish01/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3028-ant-on-the-boundary](https://github.com/gargkrish01/LeetCode/tree/master/3028-ant-on-the-boundary) |
 ## Brainteaser
 |  |
 | ------- |
