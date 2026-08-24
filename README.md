@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/gargkrish01/LeetCode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/gargkrish01/LeetCode/tree/master/0383-ransom-note) |
 | [0434-number-of-segments-in-a-string](https://github.com/gargkrish01/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/gargkrish01/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/gargkrish01/LeetCode/tree/master/0520-detect-capital) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/gargkrish01/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1528-shuffle-string](https://github.com/gargkrish01/LeetCode/tree/master/1528-shuffle-string) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/gargkrish01/LeetCode/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gargkrish01/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gargkrish01/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/gargkrish01/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2206-divide-array-into-equal-pairs](https://github.com/gargkrish01/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2325-decode-the-message](https://github.com/gargkrish01/LeetCode/tree/master/2325-decode-the-message) |
 | [2404-most-frequent-even-element](https://github.com/gargkrish01/LeetCode/tree/master/2404-most-frequent-even-element) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gargkrish01/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/gargkrish01/LeetCode/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gargkrish01/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/gargkrish01/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0905-sort-array-by-parity](https://github.com/gargkrish01/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/gargkrish01/LeetCode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/gargkrish01/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/gargkrish01/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/gargkrish01/LeetCode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/gargkrish01/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/gargkrish01/LeetCode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -251,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gargkrish01/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/gargkrish01/LeetCode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/gargkrish01/LeetCode/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/gargkrish01/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/gargkrish01/LeetCode/tree/master/0912-sort-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/gargkrish01/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2404-most-frequent-even-element](https://github.com/gargkrish01/LeetCode/tree/master/2404-most-frequent-even-element) |
