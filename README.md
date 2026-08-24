@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/gargkrish01/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/gargkrish01/LeetCode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/gargkrish01/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [1051-height-checker](https://github.com/gargkrish01/LeetCode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gargkrish01/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/gargkrish01/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gargkrish01/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/gargkrish01/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/gargkrish01/LeetCode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/gargkrish01/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [1051-height-checker](https://github.com/gargkrish01/LeetCode/tree/master/1051-height-checker) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gargkrish01/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gargkrish01/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/gargkrish01/LeetCode/tree/master/3731-find-missing-elements) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/gargkrish01/LeetCode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/gargkrish01/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/gargkrish01/LeetCode/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/gargkrish01/LeetCode/tree/master/1051-height-checker) |
 | [2206-divide-array-into-equal-pairs](https://github.com/gargkrish01/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2404-most-frequent-even-element](https://github.com/gargkrish01/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2833-furthest-point-from-origin](https://github.com/gargkrish01/LeetCode/tree/master/2833-furthest-point-from-origin) |
@@ -295,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/gargkrish01/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/gargkrish01/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
