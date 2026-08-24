@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/gargkrish01/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/gargkrish01/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/gargkrish01/LeetCode/tree/master/0520-detect-capital) |
+| [0709-to-lower-case](https://github.com/gargkrish01/LeetCode/tree/master/0709-to-lower-case) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/gargkrish01/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1528-shuffle-string](https://github.com/gargkrish01/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/gargkrish01/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
