@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/gargkrish01/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gargkrish01/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2206-divide-array-into-equal-pairs](https://github.com/gargkrish01/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/gargkrish01/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/gargkrish01/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1816-truncate-sentence](https://github.com/gargkrish01/LeetCode/tree/master/1816-truncate-sentence) |
 | [2325-decode-the-message](https://github.com/gargkrish01/LeetCode/tree/master/2325-decode-the-message) |
+| [2351-first-letter-to-appear-twice](https://github.com/gargkrish01/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2833-furthest-point-from-origin](https://github.com/gargkrish01/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3894-traffic-signal-color](https://github.com/gargkrish01/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Simulation
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/gargkrish01/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2206-divide-array-into-equal-pairs](https://github.com/gargkrish01/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2325-decode-the-message](https://github.com/gargkrish01/LeetCode/tree/master/2325-decode-the-message) |
+| [2351-first-letter-to-appear-twice](https://github.com/gargkrish01/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/gargkrish01/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gargkrish01/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gargkrish01/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/gargkrish01/LeetCode/tree/master/1051-height-checker) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/gargkrish01/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2206-divide-array-into-equal-pairs](https://github.com/gargkrish01/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/gargkrish01/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/gargkrish01/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2833-furthest-point-from-origin](https://github.com/gargkrish01/LeetCode/tree/master/2833-furthest-point-from-origin) |
 ## Pigeonhole Principle
