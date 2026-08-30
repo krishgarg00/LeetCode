@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/gargkrish01/LeetCode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/gargkrish01/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/gargkrish01/LeetCode/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/gargkrish01/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/gargkrish01/LeetCode/tree/master/0383-ransom-note) |
 | [0434-number-of-segments-in-a-string](https://github.com/gargkrish01/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/gargkrish01/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/gargkrish01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/gargkrish01/LeetCode/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/gargkrish01/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/gargkrish01/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0905-sort-array-by-parity](https://github.com/gargkrish01/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/gargkrish01/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/gargkrish01/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
