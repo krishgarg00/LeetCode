@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/gargkrish01/LeetCode/tree/master/1816-truncate-sentence) |
 | [2325-decode-the-message](https://github.com/gargkrish01/LeetCode/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/gargkrish01/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2810-faulty-keyboard](https://github.com/gargkrish01/LeetCode/tree/master/2810-faulty-keyboard) |
 | [2833-furthest-point-from-origin](https://github.com/gargkrish01/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3894-traffic-signal-color](https://github.com/gargkrish01/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Simulation
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/gargkrish01/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/gargkrish01/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2810-faulty-keyboard](https://github.com/gargkrish01/LeetCode/tree/master/2810-faulty-keyboard) |
 | [3028-ant-on-the-boundary](https://github.com/gargkrish01/LeetCode/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gargkrish01/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3894-traffic-signal-color](https://github.com/gargkrish01/LeetCode/tree/master/3894-traffic-signal-color) |
