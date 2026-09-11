@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/gargkrish01/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gargkrish01/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/gargkrish01/LeetCode/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/gargkrish01/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/gargkrish01/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/gargkrish01/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/gargkrish01/LeetCode/tree/master/0048-rotate-image) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/gargkrish01/LeetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/gargkrish01/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/gargkrish01/LeetCode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/gargkrish01/LeetCode/tree/master/0090-subsets-ii) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gargkrish01/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/gargkrish01/LeetCode/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/gargkrish01/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/gargkrish01/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/gargkrish01/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/gargkrish01/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/gargkrish01/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/gargkrish01/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/gargkrish01/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1572-matrix-diagonal-sum](https://github.com/gargkrish01/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -336,5 +340,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/gargkrish01/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/gargkrish01/LeetCode/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/gargkrish01/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
