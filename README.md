@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/gargkrish01/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gargkrish01/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/gargkrish01/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/gargkrish01/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/gargkrish01/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/gargkrish01/LeetCode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/gargkrish01/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/gargkrish01/LeetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/gargkrish01/LeetCode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/gargkrish01/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gargkrish01/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2206-divide-array-into-equal-pairs](https://github.com/gargkrish01/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
